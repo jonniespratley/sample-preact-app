@@ -1,0 +1,13 @@
+/node_modules
+/npm-debug.log
+.DS_Store
+/coverage
+node_modules
+*.log
+npm-debug.log*
+db
+_users
+_replicator
+db_*
+bower_components
+log.txt
